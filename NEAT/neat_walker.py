@@ -41,10 +41,7 @@ def main(genomes,config):
                 action = np.clip(action,-1,1)
 
                 observation, reward, done, info = env.step(action)
-
-                #print("\t Reward {}: {}".format(t, reward))
-                #print("\t Action {}: {}".format(t, action))
-
+             
                 t += 1
                 r += reward
 
