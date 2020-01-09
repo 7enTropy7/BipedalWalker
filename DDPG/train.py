@@ -35,7 +35,7 @@ def train_agent(episodes):
             torch.save(agent.critic_local.state_dict(), 'critic_checkpoint.pth')
             print('\rEpisode {}\tAverage Reward: {:.2f}'.format(episode, np.mean(scores_deque)))   
 
-        if np.mean(scores_deque)>0:
+        if np.mean(scores_deque)>20:
             break
 
 train_agent(10000)
