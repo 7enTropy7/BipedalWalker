@@ -8,7 +8,7 @@ This is how I taught a dumb bot to walk on two feet.
 - NeuroEvolution of Augmenting Topologies
 - Deep Deterministic Policy Gradients
 
-### Testing
+### Instructions
 
 ```bash
 git clone https://github.com/7enTropy7/BipedalWalker.git
