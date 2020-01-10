@@ -4,9 +4,9 @@
 This is how I taught a dumb bot to walk on two feet.
 
 ### Algorithms
-1. Deep Q Learning
-2. NeuroEvolution of Augmenting Topologies
-3. Deep Deterministic Policy Gradients
+- Deep Q Learning
+- NeuroEvolution of Augmenting Topologies
+- Deep Deterministic Policy Gradients
 
 ### Testing
 
