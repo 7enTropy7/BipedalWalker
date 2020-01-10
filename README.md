@@ -3,7 +3,9 @@ This is how you teach a dumb bot to walk on two feet.
 
 ## How to Run
 >$ git clone https://github.com/7enTropy7/BipedalWalker.git
+
 >$ cd BipedalWalker/DDPG
+
 >$ python3 test.py
 
 
