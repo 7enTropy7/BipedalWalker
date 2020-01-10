@@ -25,4 +25,4 @@ $ python3 test.py
 
 After training for around 6 hours...
 
-![ezgif com-video-to-gif (6)](https://user-images.githubusercontent.com/36446402/72104672-fd1b1700-3351-11ea-86ed-d179a370d159.gif)
+![ezgif com-video-to-gif (7)](https://user-images.githubusercontent.com/36446402/72131942-bbb35780-33a3-11ea-9db3-94651408fb92.gif)
