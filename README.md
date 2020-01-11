@@ -1,5 +1,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
+https://img.shields.io/endpoint?label=Linkedin&logo=profile&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Funnikrishnan-menon-aa013415a%2F
+
 # BipedalWalker
 
 This is how I taught a dumb bot to walk on two feet.
