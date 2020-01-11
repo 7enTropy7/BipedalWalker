@@ -1,7 +1,5 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-profile-green.svg)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/)
 
-[![GitHub stars](https://img.shields.io/github/stars/tterb/playmusic.svg?style=social&label=Star)](https://github.com/7enTropy7/BipedalWalker/stargazers)
-
 # BipedalWalker
 
 This is how I taught a dumb bot to walk on two feet.
