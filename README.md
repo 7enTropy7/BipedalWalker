@@ -13,7 +13,7 @@ Reward is given for moving forward, total 300+ points up to the far end. If the 
 - [x] NeuroEvolution of Augmenting Topologies
 - [x] Deep Deterministic Policy Gradients
 
-### Instructions
+### Testing Instructions
 
 ```bash
 $ git clone https://github.com/7enTropy7/BipedalWalker.git
