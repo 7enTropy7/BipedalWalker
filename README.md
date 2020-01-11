@@ -1,6 +1,6 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-[![LinkedIn-profile](https://img.shields.io/badge/LinkedIn%20profile-LinkedIn-profile-green.svg)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/)
+[![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-profile-green.svg)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/)
 
 # BipedalWalker
 
