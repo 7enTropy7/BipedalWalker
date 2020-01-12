@@ -23,6 +23,6 @@ $ python3 test.py
 
 ### DDPG Agent Demo
 
-After training for around 6 hours...
+After training for around 2000 episodes...
 
 ![ezgif com-video-to-gif (7)](https://user-images.githubusercontent.com/36446402/72131942-bbb35780-33a3-11ea-9db3-94651408fb92.gif)
