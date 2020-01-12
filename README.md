@@ -16,7 +16,7 @@ Reward is given for moving forward, total 300+ points up to the far end. If the 
 ### Installing Dependencies
 
 ```bash
-$ pip3 install requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 ### Testing Instructions
