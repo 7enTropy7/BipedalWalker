@@ -25,4 +25,5 @@ $ python3 test.py
 
 After training for around 2000 episodes...
 
-![ezgif com-video-to-gif (7)](https://user-images.githubusercontent.com/36446402/72131942-bbb35780-33a3-11ea-9db3-94651408fb92.gif)
+![ezgif com-video-to-gif (8)](https://user-images.githubusercontent.com/36446402/72218920-65dadd00-3566-11ea-9321-6e478e0310fb.gif)
+
