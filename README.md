@@ -13,6 +13,12 @@ Reward is given for moving forward, total 300+ points up to the far end. If the 
 - [x] NeuroEvolution of Augmenting Topologies
 - [x] Deep Deterministic Policy Gradients
 
+### Installing Dependencies
+
+```bash
+$ pip3 install requirements.txt
+```
+
 ### Testing Instructions
 
 ```bash
