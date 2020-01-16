@@ -1,4 +1,6 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-profile-green.svg)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/) [![GitHub followers](https://img.shields.io/github/followers/7enTropy7?label=Follow&style=social)](https://github.com/7enTropy7?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/7enTropy7/BipedalWalker.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/7enTropy7/BipedalWalker/stargazers/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![Python 3.6](https://img.shields.io/badge/python-3.6-teal.svg)](https://www.python.org/downloads/release/python-360/) [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Unnikrishnan-blue.svg)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/) [![GitHub followers](https://img.shields.io/github/followers/7enTropy7?label=Follow&style=social)](https://github.com/7enTropy7?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/7enTropy7/BipedalWalker.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/7enTropy7/BipedalWalker/stargazers/)
 
 # BipedalWalker
 
