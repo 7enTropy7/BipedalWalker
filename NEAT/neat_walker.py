@@ -12,7 +12,7 @@ def run(config_path):
     p.add_reporter(neat.StdOutReporter(True))
     stats = neat.StatisticsReporter()
     p.add_reporter(stats)
-    winner = p.run(main, n=1500)
+    winner = p.run(main, n=1500) # n is no. of generations
 
 def main(genomes,config):
     for genome_id,genome in genomes:
