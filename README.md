@@ -59,7 +59,7 @@ $ cd BipedalWalker/DDPG/
 $ python3 test.py
 ```
 
-## DDPG Agent Demo
+## DDPG Output
 
 After training for around **2000 episodes**
 
