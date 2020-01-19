@@ -20,7 +20,7 @@ Reward is given for moving forward, total 300+ points up to the far end. If the 
 $ git clone https://github.com/7enTropy7/BipedalWalker.git
 ```
 
-## Contents
+## Directory Content
 ```bash
 $ cd BipedalWalker/
 $ tree
