@@ -6,6 +6,8 @@
 
 This is how I taught a dumb bot to walk on two feet.
 
+Bipedal Walker is an <a href="https://openai.com/systems/">OpenAI Gym</a> environment where an agent learns to control a bipedalal being in order to reach the end of an obstacle course. What makes this challenging is that the agent only receives limbs coordinates along with the Lidar information. The agent has to learn to balance,walk,run,jump on its own without any human intervention.
+
 ## Environment Specifications
 
 Reward is given for moving forward, total 300+ points up to the far end. If the robot falls, it gets -100. Applying motor torque costs a small amount of points, more optimal agent will get better score. State consists of hull angle speed, angular velocity, horizontal speed, vertical speed, position of joints and joints angular speed, legs contact with ground, and 10 lidar rangefinder measurements. There's no coordinates in the state vector.
@@ -65,6 +67,7 @@ After training for around **2000 episodes**
 
 ![ezgif com-video-to-gif (8)](https://user-images.githubusercontent.com/36446402/72218920-65dadd00-3566-11ea-9321-6e478e0310fb.gif)
 
+***
 ## Author
 [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/)
 * [**Unnikrishnan Menon**](https://github.com/7enTropy7) 
