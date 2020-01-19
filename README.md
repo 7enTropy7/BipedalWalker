@@ -6,7 +6,7 @@
 
 This is how I taught a dumb bot to walk on two feet.
 
-Bipedal Walker is an <a href="https://openai.com/systems/">OpenAI Gym</a> environment where an agent learns to control a bipedalal being in order to reach the end of an obstacle course. What makes this challenging is that the agent only receives limbs coordinates along with the Lidar information. The agent has to learn to balance,walk,run,jump on its own without any human intervention.
+Bipedal Walker is an <a href="https://openai.com/systems/">OpenAI Gym</a> environment where an agent learns to control a bipedal 2D character to reach the end of an obstacle course. What makes this challenging is that the agent only receives limbs coordinates along with the Lidar information. The agent has to learn to balance,walk,run,jump on its own without any human intervention.
 
 ## Environment Specifications
 
