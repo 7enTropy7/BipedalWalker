@@ -63,7 +63,7 @@ $ python3 test.py
 
 ## DDPG Output
 
-After training for around **2000 episodes**
+After training for around **2000 episodes** (6 hours of training on my low-end CPU).
 
 ![ezgif com-video-to-gif (8)](https://user-images.githubusercontent.com/36446402/72218920-65dadd00-3566-11ea-9321-6e478e0310fb.gif)
 
